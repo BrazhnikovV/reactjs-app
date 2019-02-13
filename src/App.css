@@ -1,61 +1,7 @@
 body {
-  background-image: url("./img/free_spins_background.png");
+
 }
 
 .app {
-
-}
-
-.slots {
-  width: 80%;
-  padding-bottom: 40%;
-  position: relative;
-  margin: auto auto auto auto;
-  background-color: black;
-}
-
-.wrap-btn-spin {
-  position: absolute;
-  bottom: 20px;
-  right: -20px;
-}
-
-.btn-spin {
-  position: relative;
-  background-image: url("./img/menuBtnIcon.svg");
-  width: 10vw;
-  height: 10vw;
-  z-index: 9;
-}
-.img-btn-symbol {
-  position: absolute;
-  top: 0px;
-  left: 0px;
-  right: 0px;
-  bottom: 0px;
-  margin: auto;
-  background-image: url("./img/spinSymbol.svg");
-  background-repeat: no-repeat;
-  height: 8vw;
-  width: 8vw;
-  z-index: 9;
-  overflow: hidden;
-}
-
-.men-bar {
-  position: absolute;
-  top: 0px;
-  left: 0px;
-  right: 0px;
-  bottom: 0px;
-  margin: auto;
-  background-image: url("./img/sideSpinMenuBar.svg");
-  background-repeat: no-repeat;
-  height: 8vw;
-  width: 12vw;
-  z-index: 8;
-}
-
-.side-spin-men-bar {
 
 }
