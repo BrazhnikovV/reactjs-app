@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/reactapp.iml" filepath="$PROJECT_DIR$/reactapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/reactapp-sigma.iml" filepath="$PROJECT_DIR$/.idea/reactapp-sigma.iml" />
     </modules>
   </component>
 </project>
